@@ -1,1 +1,7 @@
 hello github
+
+git use
+step1:git pull origin master
+step2: git add . 
+step3: git commit -m 'desc'
+step4: git push origin master
